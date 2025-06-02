@@ -29,6 +29,5 @@ elif operation == "/":
         raise SystemExit("Fin du programme")
 
     resultat = round(nombre1 / nombre2, 2)
-
 # Affiche le résultat
 print(f"Le résultat de l'opération est: {round(resultat, 2)}")
