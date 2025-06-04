@@ -23,7 +23,7 @@ for product in products:
     # On sépare la chaine avec " " en liste de mots
     price_list = price_str.split(" ")
     # On récupère le prix (= deuxième mot)
-    all_products[name] = {"prix": price_list[1]}
+    all_products[name] =    {"prix": price_list[1]}
 
 # Extraction des descriptions des produits dans la liste
 descriptions_list = []
