@@ -1,4 +1,4 @@
-# Contexte
+def# Contexte
 
 Supposons que vous soyez un responsable RH et que vous deviez **créer un fichier** contenant les salaires de vos employés. Nous allons lire dans un fichier **CSV** les noms des employés et les heures travaillées, puis **créer** un autre **fichier CSV** avec leurs *salaires calculés*.
 
